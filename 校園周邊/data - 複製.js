@@ -105,13 +105,7 @@ var APP_DATA = {
           "target": "0-"
         }
       ],
-      "infoHotspots": [
-	  {
-          "yaw": 2.9108619332425114,
-          "pitch": -0.14587248827952948,
-          "title": "天橋",
-          "text": "全台灣第一座有電扶梯的天橋，造價10億"
-        }]
+      "infoHotspots": []
     },
     {
       "id": "2-",
@@ -145,13 +139,7 @@ var APP_DATA = {
           "target": "1-"
         }
       ],
-      "infoHotspots": [
-	  {
-          "yaw": 1.384629230410333,
-          "pitch": -0.33273560592562035,
-          "title": "松山高中(松隆)站",
-          "text": "公車站<div>299</div><div>212</div><div>1551</div><div><br></div>"
-        }]
+      "infoHotspots": []
     },
     {
       "id": "3-",
@@ -279,13 +267,7 @@ var APP_DATA = {
           "target": "1-"
         }
       ],
-      "infoHotspots": [
-	  {
-          "yaw": 0.8148812776811649,
-          "pitch": -0.052445912545930895,
-          "title": "松山高中(基隆路)站",
-          "text": "公車站<div>28</div><div>311</div><div>669</div><div>內科通勤專車 19</div><div>藍26</div><div>藍27</div>"
-        }]
+      "infoHotspots": []
     }
   ],
   "name": "校園周邊",

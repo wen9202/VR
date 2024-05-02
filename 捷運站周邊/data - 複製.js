@@ -42,14 +42,7 @@ var APP_DATA = {
           "target": "1-1"
         }
       ],
-      "infoHotspots": [
-	    {
-          "yaw": 0.7444363544220742,
-          "pitch": 0.09358000743120698,
-          "title": "捷運市政府站",
-          "text": "公車站<div>212夜</div><div>212直</div><div>232快</div><div>忠孝幹線</div><div>270</div><div>281</div><div>600</div><div>647</div><div>912</div><div>915</div><div>仁愛幹線</div><div>基隆路幹線</div><div>棕18</div><div>棕21</div><div>棕6</div><div>棕7</div><div>棕7(建業路)</div><div>棕7綠野香坡</div><div>綠1</div>"
-        }
-	  	  ]
+      "infoHotspots": []
     },
     {
       "id": "1-1",
@@ -93,13 +86,7 @@ var APP_DATA = {
           "target": "4-"
         }
       ],
-      "infoHotspots": [
-	  {
-          "yaw": 1.4031180971350636,
-          "pitch": 0.11444248951256775,
-          "title": "市府捷運站1號出口",
-          "text": ""
-        }]
+      "infoHotspots": []
     },
     {
       "id": "2-3",
@@ -149,13 +136,7 @@ var APP_DATA = {
           "target": "3-4"
         }
       ],
-      "infoHotspots": [
-	  {
-          "yaw": 0,
-          "pitch": 0,
-          "title": "市府捷運站3號出口<div><br></div>",
-          "text": "Text"
-        }]
+      "infoHotspots": []
     },
     {
       "id": "3-4",
@@ -199,14 +180,7 @@ var APP_DATA = {
           "target": "4-"
         }
       ],
-      "infoHotspots": [
-	    {
-          "yaw": 1.1261047097420018,
-          "pitch": 0.06755744024210486,
-          "title": "市府捷運站4號出口",
-          "text": ""
-        }
-	  ]
+      "infoHotspots": []
     },
     {
       "id": "4-",
